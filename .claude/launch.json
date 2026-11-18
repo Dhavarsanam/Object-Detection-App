@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "lumen-web",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "C:\\Users\\dhava\\AppData\\Local\\Temp\\claude\\6f67b37c061083bc\\1cc8c1ca-0649-493a-967a-3524362e1e4d\\scratchpad\\serve.js",
+        "build/web",
+        "8765"
+      ],
+      "port": 8765
+    }
+  ]
+}
